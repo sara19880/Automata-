@@ -1,5 +1,4 @@
 # Automata
-# Car-Plates-Detection
 <br />
 <div align="center">
   
